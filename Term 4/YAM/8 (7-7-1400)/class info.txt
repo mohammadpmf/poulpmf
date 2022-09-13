@@ -1,0 +1,6 @@
+OOP
+
+1- Encapsulation => کپسوله سازی - بسته بندی شده
+2- Inheritence   => ارث بری
+3- Polymorphism  => چند ریختی
+

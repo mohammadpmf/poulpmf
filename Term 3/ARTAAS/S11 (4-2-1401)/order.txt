@@ -1,0 +1,34 @@
+Order 1
+Kebab               	80000     
+Joojeh Kebab        	70000     
+
+----------------------------------------
+Total Price: 150000
+
+
+Order 2
+Gheymeh             	56000     
+Pizza               	65000     
+
+----------------------------------------
+Total Price: 121000
+
+
+Order 3
+Fesenjoon           	65000     
+
+----------------------------------------
+Total Price: 65000
+
+
+Order 1
+Kebab               	80000     
+Joojeh Kebab        	70000     
+Fesenjoon           	65000     
+Gheymeh             	56000     
+Pizza               	65000     
+
+----------------------------------------
+Total Price: 336000
+
+

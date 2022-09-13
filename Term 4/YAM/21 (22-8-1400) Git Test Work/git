@@ -1,0 +1,12 @@
+1- git init
+2- git status
+3- git add 'file name'   git add --all   git add .
+4- git commit -m 'message'
+5- git tag -a 'tagname' -m 'message'
+6- git reset --hard 'id or tagname'
+7- git branch -b 'branch_name'
+8- git branch 'branch_name'
+9- git branch -d 'branch_name
+10- git merge 'branch_wanted_to_be_merged'
+
+

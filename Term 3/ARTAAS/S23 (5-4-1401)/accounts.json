@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Saleh",
+        "pin": "1234",
+        "money": 10000000,
+        "card_no": "6104",
+        "wrong": 3
+    },
+    {
+        "name": "Amirali",
+        "pin": "1234",
+        "money": 20000000,
+        "card_no": "6221",
+        "wrong": 0
+    }
+]
